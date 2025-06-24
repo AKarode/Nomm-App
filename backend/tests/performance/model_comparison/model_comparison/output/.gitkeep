@@ -1,6 +1,0 @@
-# This file ensures the output directory is included in version control.
-# The directory will contain generated test output files like:
-# - model_comparison_report.json
-# - response_times.png
-# - similarity_distributions.png
-# - ranking_consistency.png 
